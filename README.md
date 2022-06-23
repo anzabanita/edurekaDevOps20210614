@@ -4,3 +4,5 @@ this is bug fix
 this is a public repository
 this is second edit
 
+new line added
+
